@@ -1,0 +1,65 @@
+Example Case 1 – Contract: Alpha Corp v. Beta Ltd (2020)
+--------------------------------------------------------
+Parties: Alpha Corp (plaintiff) vs. Beta Ltd (defendant).
+
+Facts: Alpha Corp and Beta Ltd entered into a written supply agreement in January 2020. Beta agreed to deliver 1,000 units of specialized components each month for 12 months. In April 2020, Beta delivered only 200 units, claiming disruption in its supply chain. Alpha was forced to purchase substitute components from a third party at a higher price and lost several key customers.
+
+Issues: (1) Whether Beta Ltd breached the supply agreement, and (2) whether Alpha Corp is entitled to recover expectation damages, including lost profits.
+
+Holding: The court held that Beta Ltd was in breach of contract and that the force majeure clause did not apply because the disruption was foreseeable and Beta failed to mitigate the impact.
+
+Reasoning: The court interpreted the force majeure clause narrowly, emphasizing that general economic hardship did not excuse performance. Alpha had reasonably relied on Beta’s monthly deliveries and provided timely notice of default. The court awarded Alpha the additional cost of cover plus a portion of the lost profits directly attributable to the missed deliveries.
+
+
+Example Case 2 – Tort: Rivera v. City Transport Authority (2019)
+----------------------------------------------------------------
+Parties: Rivera (plaintiff) vs. City Transport Authority (defendant).
+
+Facts: Rivera was injured when a city bus abruptly braked at an intersection, causing her to fall and fracture her arm. The bus driver admitted that he had been looking at his mobile phone when he noticed a pedestrian entering the crosswalk and braked suddenly. The transport authority argued contributory negligence, claiming Rivera was not holding the handrail.
+
+Issues: (1) Whether the bus driver and the City Transport Authority breached their duty of care, and (2) whether Rivera’s failure to hold the handrail reduced her recovery.
+
+Holding: The court found that the driver and the Authority were negligent and that Rivera was 20% contributorily negligent.
+
+Reasoning: Professional drivers owe passengers a heightened duty of care. The driver’s distraction by his mobile phone was a clear departure from that standard. However, Rivera could have reduced the risk of injury by holding the handrail, justifying a modest reduction in damages.
+
+
+Example Case 3 – Employment: Kaur v. Global MedTech Inc. (2021)
+----------------------------------------------------------------
+Parties: Kaur (plaintiff) vs. Global MedTech Inc. (defendant).
+
+Facts: Kaur, a quality assurance manager, reported serious safety defects in a medical device to both her supervisor and the internal compliance hotline. Two months later, Global MedTech terminated her employment, citing "departmental restructuring." Internal emails later disclosed in discovery showed executives discussing Kaur as a "troublemaker" and considering termination shortly after her report.
+
+Issues: (1) Whether Kaur’s termination violated whistleblower protection laws, and (2) the appropriate remedies.
+
+Holding: The court held that Kaur was unlawfully terminated in retaliation for protected whistleblowing activity.
+
+Reasoning: Temporal proximity between the report and termination, along with internal emails revealing retaliatory motive, established a prima facie case. The employer’s restructuring explanation was found pretextual.
+
+
+Example Queries for Testing
+---------------------------
+Contract law:
+- "force majeure clause and supply chain disruptions during a pandemic"
+- "expectation damages and lost profits after breach of supply contract"
+
+Tort:
+- "duty of care of public transport operators to passengers"
+- "contributory negligence where passenger failed to use handrail"
+
+Employment / Whistleblower:
+- "wrongful termination after reporting safety issues internally"
+- "retaliation for whistleblowing and evidence of pretext"
+
+
+Example Matter Descriptions
+---------------------------
+Matter 1 – similar to the contract case:
+Our client is a manufacturer that had a 1‑year supply contract. The supplier drastically reduced shipments citing general economic downturn. Our client had to buy from other vendors at higher prices and lost a major customer. We want to understand how courts treat force majeure arguments and whether lost profits are recoverable.
+
+Matter 2 – similar to the negligence case:
+A passenger on a privately operated commuter bus suffered injuries when the bus stopped abruptly. Evidence suggests the driver was distracted by a mobile device. The defense argues the passenger should have been holding onto support bars. We need precedent on duty of care owed by bus operators and how contributory negligence affects damages.
+
+Matter 3 – similar to the whistleblower case:
+An employee raised internal concerns about regulatory violations in a healthcare company. Shortly afterward, the employee was dismissed during a so‑called "restructuring." Internal communications suggest managers were frustrated with the complaints. We need examples of courts finding retaliation and how they analyze pretext.
+

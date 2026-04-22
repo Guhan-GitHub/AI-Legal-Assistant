@@ -1,0 +1,17 @@
+Demo login users for the AI-Powered Legal Assistant
+===================================================
+
+These credentials are for demonstration and evaluation only.
+Do NOT reuse them for real systems or real accounts.
+
+Configured demo users:
+----------------------
+1) Username: admin
+   Password: Admin@1234
+
+2) Username: lawyer1
+   Password: Lawyer@2024
+
+3) Username: student
+   Password: Student@final1
+
