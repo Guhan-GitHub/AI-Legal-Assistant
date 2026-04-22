@@ -64,28 +64,38 @@ README.md            # High-level project overview and quick start
 
 ## Setup Instructions
 
-### 1. Backend Setup (FastAPI)
+### Prerequisites
 
-1. Open a terminal and navigate to the project root:
+- Python 3.8+
+- Node.js 16+
+- npm or yarn
 
-   ```bash
-   cd "e:\New folder"
-   ```
+### 1. Clone the Repository
 
-2. Create and activate a virtual environment (recommended):
+```bash
+git clone https://github.com/Guhan-GitHub/AI-Legal-Assistant.git
+cd AI-Legal-Assistant
+```
+
+### 2. Backend Setup (FastAPI)
+
+1. Create and activate a virtual environment:
 
    ```bash
    python -m venv .venv
+   # On Windows:
    .venv\Scripts\activate
+   # On macOS/Linux:
+   source .venv/bin/activate
    ```
 
-3. Install Python dependencies:
+2. Install Python dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Run the FastAPI backend with Uvicorn:
+3. Run the FastAPI backend:
 
    ```bash
    uvicorn backend.app:app --reload
@@ -93,12 +103,12 @@ README.md            # High-level project overview and quick start
 
    The API will be available at `http://127.0.0.1:8000`.
 
-### 2. Frontend Setup (React + Vite)
+### 3. Frontend Setup (React + Vite)
 
-1. Open another terminal and navigate to the frontend:
+1. Navigate to the frontend directory:
 
    ```bash
-   cd "e:\New folder\frontend"
+   cd frontend
    ```
 
 2. Install Node dependencies:
